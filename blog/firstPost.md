@@ -9,7 +9,7 @@ Content for **blog post one**. Lorem ipsum dolor sit amet consectetur adipisicin
 
 *Italic*, **bold**, and `monospace`
 
-```js
+```javascript
 <script>
   const foo = 'bar';
   console.log(foo);
