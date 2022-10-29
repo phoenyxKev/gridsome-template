@@ -1,0 +1,9 @@
+{
+  "include": ["src/**/*.js", "src/**/*.vue", "tests/e2e/.fixtures/**/*.js"],
+  "extensions": [
+    ".vue"
+  ],
+  "vueCompilerOptions": {
+    "target": 2.7
+  }
+}
